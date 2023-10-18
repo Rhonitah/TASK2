@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(16, 192, 236);
+}
+.h1style{
+    color:green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.images{
+    width:100%;
+    height:70%;
+   
+
+}
+.subdiv{
+    float: left;
+    width: 25%;
+    height: auto;
+    border: 2px solid green;
+    margin-right: 10px;
+    padding: 10px;
+    margin: 5px;
+   
+   
+}
+.maindiv{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    background-color: blue; 
+    margin-right: 30px; 
+}
+
+
+.caption{
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}

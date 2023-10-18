@@ -1,0 +1,45 @@
+header{
+    background-color: aqua;
+    colour: black;
+}
+main{
+    background-color: blueviolet;
+    width: 50%;
+    height: 300px;
+float: left;
+}
+aside{
+    background-color: rgb(39, 173, 68);
+    width: 50%;
+    height: 200px;
+float: right;
+}
+footer{
+    background-color: darkmagenta;
+    clear: both;
+}
+
+nav ul li{
+    background-color: yellow;
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+nav{
+    background-color: aqua;
+}
+
+nav ul li :hover{
+    background-color: gold;
+}
+.h1styles{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1.some{
+    background-color: orange;
+}
