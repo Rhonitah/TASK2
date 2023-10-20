@@ -8,17 +8,14 @@
     align-items: center;
 }
 
-#img1 {
+img {
     width:200px;
     height:200px;
-    justify-content: center;
-    align-items: center;
-    padding-left: 200px;
 }
 
-.about {
+/* .about {
     padding-left: 150px;
-}
+} */
 
 .about li {
     padding-left: 30px;
